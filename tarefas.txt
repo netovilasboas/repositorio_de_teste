@@ -1,5 +1,3 @@
 let nome = "Neto";
 Let idade - 22;
-
-let nome = "Neto";
-Let idade - 22;
+adicionei essa linha pelo gitHub
