@@ -1,3 +1,2 @@
 let nome = "Neto";
 Let idade - 22;
-s
